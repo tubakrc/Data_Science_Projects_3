@@ -40,3 +40,8 @@ I applied 5(five) Regression Models--> Multiple Linear Regression (MLR), Ridge R
 * Improved accuracy in demand forecasting.
 * Enhanced inventory planning and stock availability.
 * Better alignment of markdown events with predicted holiday demands.
+
+### Factor Analysis & SHAP
+![Plot](sales_prediction_map.htlm)
+![Plot](holiday_events_animation.htlm)
+
