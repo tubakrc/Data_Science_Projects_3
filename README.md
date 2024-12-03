@@ -1,6 +1,6 @@
 # Holiday Events Analysis - Walmart Sales Prediction⚾👷🏻‍♀👷🏻‍♂🦃🎄
 
-## Problem: Predicting sales in the banking industry using Machine Learning Algorithms.
+## Problem: Predicting sales in the retail industry using Machine Learning Algorithms.
 
 ## Walmart Sales Prediction Challenge
 
