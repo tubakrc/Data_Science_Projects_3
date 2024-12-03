@@ -5,6 +5,8 @@
 ### 📌 Project Overview
 This project aims to build an effective machine learning solution for Walmart, one of the leading retail stores in the US, to accurately predict sales and demand.
 
+I applied 5(five) Regression Models--> Multiple Linear Regression (MLR), Ridge Regression, Lasso Regression, Elastic-Net Regression, and Polynomial Regression for predicting Sales and evaluated the model scores for comparison (R2, RMSE, RSS and MSE).
+
 ### 🔍 Business Problem
 
 * Walmart often faces challenges due to unforeseen demand, leading to stockouts.
@@ -16,13 +18,15 @@ This project aims to build an effective machine learning solution for Walmart, o
 
 **Key Factors Influencing Sales:**
 
-*Holidays & Events:* Prominent holidays like Super Bowl, Labor Day, Thanksgiving, and Christmas.
+* *Holidays & Events:* Prominent holidays like Super Bowl, Labor Day, Thanksgiving, and Christmas.
 
-*Economic Indicators:* CPI (Consumer Price Index), Unemployment Index.
+* *Economic Indicators:* CPI (Consumer Price Index), Unemployment Index.
 
-*Markdown Events:* Seasonal promotional markdowns preceding major holidays.
+* *Markdown Events:* Seasonal promotional markdowns preceding major holidays.
 
-*Holiday Weighting:* Weeks including major holidays are weighted five times higher than non-holiday weeks.
+* *Holiday Weighting:* Weeks including major holidays are weighted five times higher than non-holiday weeks.
+
+* The dataset is taken from Kaggle (https://www.kaggle.com/datasets/yasserh/walmart-dataset).
 
 ### 🚀 Project Goals
 
