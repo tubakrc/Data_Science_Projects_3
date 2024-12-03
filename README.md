@@ -2,8 +2,6 @@
 
 ## Problem: Predicting sales in the retail industry using Machine Learning Algorithms.
 
-## Walmart Sales Prediction Challenge
-
 ### 📌 Project Overview
 This project aims to build an effective machine learning solution for Walmart, one of the leading retail stores in the US, to accurately predict sales and demand.
 
@@ -19,8 +17,11 @@ This project aims to build an effective machine learning solution for Walmart, o
 **Key Factors Influencing Sales:**
 
 *Holidays & Events:* Prominent holidays like Super Bowl, Labor Day, Thanksgiving, and Christmas.
+
 *Economic Indicators:* CPI (Consumer Price Index), Unemployment Index.
+
 *Markdown Events:* Seasonal promotional markdowns preceding major holidays.
+
 *Holiday Weighting:* Weeks including major holidays are weighted five times higher than non-holiday weeks.
 
 ### 🚀 Project Goals
