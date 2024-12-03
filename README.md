@@ -42,6 +42,6 @@ I applied 5(five) Regression Models--> Multiple Linear Regression (MLR), Ridge R
 * Better alignment of markdown events with predicted holiday demands.
 
 ### Factor Analysis & SHAP
-![Plot](main/sales_prediction_map.html)
+![Plot](sales_prediction_map.html)
 ![Plot](main/holiday_events_animation.html)
 
