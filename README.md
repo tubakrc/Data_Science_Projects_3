@@ -2,6 +2,8 @@
 
 ## Problem: Predicting sales in the retail industry using Machine Learning Algorithms.
 
+## [Project](https://tubakrc.github.io/Data_Science_Projects_3/Holiday_Events__Walmart_Sales_Prediction_Project_02122024.html)
+
 ### 📌 Project Overview
 This project aims to build an effective machine learning solution for Walmart, one of the leading retail stores in the US, to accurately predict sales and demand.
 
