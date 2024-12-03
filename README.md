@@ -43,7 +43,9 @@ I applied 5(five) Regression Models--> Multiple Linear Regression (MLR), Ridge R
 
 ### Factor Analysis & SHAP
 
-![Plot](relative/path/to/sales_prediction_map.html)
+[Sales Prediction Map](https://github.com/tubakrc/Data_Science_Projects_3/blob/main/holiday_events_animation.html)
+
+[Sales Prediction Map](https://username.github.io/repo-name/sales_prediction_map.html)
 
 ![Plot](relative/path/to/holiday_events_animation.html)
 
