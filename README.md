@@ -46,6 +46,10 @@ I applied 5(five) Regression Models--> Multiple Linear Regression (MLR), Ridge R
 
 [Sales Prediction Map](https://drive.google.com/file/d/1mtOiRf57_UnW5dwbNmAPmtLew0OsmQ9G/view?usp=drive_link)
 
+[Sales Prediction Map](https://tubakrc.github.io/Data_Science_Projects_3/sales_prediction_map.html)
+[Holiday Events Animation](https://username.github.io/repository-name/holiday_events_animation.html)
+
+
 
 
 
