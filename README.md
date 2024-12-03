@@ -44,7 +44,7 @@ I applied 5(five) Regression Models--> Multiple Linear Regression (MLR), Ridge R
 ### Factor Analysis & SHAP
 
 
-[Sales Prediction Map](main/sales_prediction_map.html)
+[Sales Prediction Map](docs/sales_prediction_map.html)
 
 
 
